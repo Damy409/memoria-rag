@@ -1,0 +1,1 @@
+﻿Hola, me llamo Ana y trabajo como analista de datos en Cali.Estoy preparando un informe de ventas trimestral con pandas.Prefiero que los ejemplos siempre sean en Python.salir
